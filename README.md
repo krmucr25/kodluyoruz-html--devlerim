@@ -1,2 +1,2 @@
-# kodluyoruz-html--devlerim
+# kodluyoruz-html--odevlerim
 Html ödevleri
